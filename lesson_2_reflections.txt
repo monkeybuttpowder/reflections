@@ -1,0 +1,9 @@
+What in hells bells happens when you initialize a repository? Why do you need to do it?
+
+    I think possibly a hidden folder is created.  Thats where the commits are saved.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+     It's a place where you can put your files for organizational purposes.
+
+
